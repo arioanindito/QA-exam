@@ -1,0 +1,27 @@
+Processed,Method,URI,Flags
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728,Seed
+true,GET,http://google-gruyere.appspot.com/robots.txt,Seed
+true,GET,http://google-gruyere.appspot.com/sitemap.xml,Seed
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/,Seed
+true,GET,http://google-gruyere.appspot.com/0,
+true,GET,http://google-gruyere.appspot.com/1,
+true,GET,http://google-gruyere.appspot.com/2,
+true,GET,http://google-gruyere.appspot.com/3,
+true,GET,http://google-gruyere.appspot.com/4,
+true,GET,http://google-gruyere.appspot.com/5,
+true,GET,http://google-gruyere.appspot.com/6,
+true,GET,http://google-gruyere.appspot.com/7,
+true,GET,http://google-gruyere.appspot.com/8,
+true,GET,http://google-gruyere.appspot.com/9,
+true,GET,http://google-gruyere.appspot.com/start,
+true,GET,http://google-gruyere.appspot.com/resetbutton,
+true,GET,http://google-gruyere.appspot.com/,
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/login,
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/newaccount.gtl,
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/snippets.gtl?uid=cheddar,
+false,GET,https://images.google.com/?q=cheddar+cheese,Out of Scope
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/snippets.gtl?uid=brie,
+false,GET,https://news.google.com/news/search?q=brie,Out of Scope
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/lib.js,
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/login?pw=ZAP&uid=ZAP,
+true,GET,http://google-gruyere.appspot.com/425450881661954264328804432207969818728/saveprofile?action=new&is_author=True&pw=ZAP&uid=ZAP,
